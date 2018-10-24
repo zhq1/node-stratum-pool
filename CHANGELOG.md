@@ -35,3 +35,4 @@
 * Fixed Daemon reports invaid transaction
 * Fixed mainnet\testnet for zcoin
 
+***EOF***
