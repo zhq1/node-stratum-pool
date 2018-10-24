@@ -12,3 +12,5 @@ High performance Stratum poolserver in Node.js for [leshacat/BootNOMP (Node Open
 * Fix from commit: https://github.com/jazzpool/node-stratum-pool/commit/74bd24a25848c26c3b3f9bcf1deaa34e1c0f3e1a
 
 Changelog is located inside [CHANGELOG.md](https://github.com/leshacat/node-stratum-pool/blob/master/CHANGELOG.md)
+
+***EOF***
