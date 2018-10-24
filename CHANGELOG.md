@@ -5,6 +5,7 @@
 * Fix from commit: https://github.com/binways/node-stratum-pool/commit/a55239ee8c8b74acfb0d4a39a202730df27b1607
 * Fix from commit: https://github.com/binways/node-stratum-pool/commit/cef66bbf8e1815fae7c420f7ac403788852c9117
 * Fix from commit: https://github.com/jazzpool/node-stratum-pool/commit/74bd24a25848c26c3b3f9bcf1deaa34e1c0f3e1a
+* Fix from commit: https://github.com/emc2foundation/node-stratum-pool/commit/35201da1bd9df17c99e76697b305273f4e66438a
 
 ## v1.0.8
 * Issue Fixed: https://github.com/foxer666/node-stratum-pool/issues/20
