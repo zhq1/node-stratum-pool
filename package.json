@@ -19,6 +19,7 @@
     "license": "GPL-2.0",
     "author": "Matthew Little",
     "contributors": [
+        "leshacat",
         "devnulled",
         "foxer666",
         "vekexasia",
@@ -35,6 +36,10 @@
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
         "deep-extend": ">=0.5.1",
+        "cryptiles": ">=4.1.2",
+        "sshpk": ">=1.13.2"
+        "lodash": ">=4.17.5"
+        "hoek": ">=4.2.1"
         "multi-hashing": "git://github.com/leshacat/node-multi-hashing.git"
     },
     "engines": {
