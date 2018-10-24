@@ -2,7 +2,7 @@
 
 High performance Stratum poolserver in Node.js for [leshacat/BootNOMP (Node Open Mining Portal)](https://github.com/leshacat/BootNOMP)
 
-Current version: v1.0.8
+***Current version: v1.0.8***
 
 * Forked from foxer666
 * Issue Fixed: https://github.com/foxer666/node-stratum-pool/pull/33
